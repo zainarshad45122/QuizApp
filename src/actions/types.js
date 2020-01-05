@@ -1,0 +1,5 @@
+export const GET_ERRORS = "GET_ERRORS";
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
+export const SET_SELLER = "SET_SELLER";
+export const SET_SELLER_PROFILE = "SET_SELLER_PROFILE";
+export const GET_SELLER_PROFILE = "GET_SELLER_PROFILE";
